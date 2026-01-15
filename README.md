@@ -18,4 +18,4 @@ A responsive web-based calculator built with HTML, CSS, and JavaScript. Supports
 
 ## 🔗 Repository
 
-[View the source code on GitHub](https://github.com/shruti-kesarwani/CodeAlpha_Calculator)
+[View the source code on GitHub](https://shruti-kesarwani.github.io/CodeAlpha_Calculator/)
